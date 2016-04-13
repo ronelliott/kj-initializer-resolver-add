@@ -1,6 +1,6 @@
 {
   "name": "kj-initializer-resolver-add",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Resolver loading initializer for the kj webapp framework.",
   "author": "Ron Elliott <ronaldbelliott@gmail.com>",
   "license": "ISC",
